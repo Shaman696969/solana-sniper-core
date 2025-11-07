@@ -1,5 +1,4 @@
 pub mod scanner;
-
-// Импорт для логов (можно убрать потом, когда подключим tracing)
-#[macro_use]
-extern crate log;
+pub mod trading;    // ← добавлено
+pub mod config;     // ← если ещё не сделано
+// остальное по желанию
