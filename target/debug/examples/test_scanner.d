@@ -1,0 +1,1 @@
+C:\Users\Shaman666\Desktop\core\target\debug\examples\test_scanner.exe: C:\Users\Shaman666\Desktop\core\examples\test_scanner.rs C:\Users\Shaman666\Desktop\core\src\lib.rs C:\Users\Shaman666\Desktop\core\src\scanner\mod.rs C:\Users\Shaman666\Desktop\core\src\scanner\pump_fun.rs

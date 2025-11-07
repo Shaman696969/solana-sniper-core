@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "cargo",
+    "startCommand": "cargo run --example web_scanner"
+  },
+  "env": {
+    "RUST_LOG": "info"
+  }
+}

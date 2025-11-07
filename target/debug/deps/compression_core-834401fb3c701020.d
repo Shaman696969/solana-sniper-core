@@ -1,0 +1,10 @@
+C:\Users\Shaman666\Desktop\core\target\debug\deps\compression_core-834401fb3c701020.d: C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\lib.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\level.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\unshared.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\util.rs
+
+C:\Users\Shaman666\Desktop\core\target\debug\deps\libcompression_core-834401fb3c701020.rlib: C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\lib.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\level.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\unshared.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\util.rs
+
+C:\Users\Shaman666\Desktop\core\target\debug\deps\libcompression_core-834401fb3c701020.rmeta: C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\lib.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\level.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\unshared.rs C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\util.rs
+
+C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\lib.rs:
+C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\level.rs:
+C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\unshared.rs:
+C:\Users\Shaman666\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\compression-core-0.4.29\src\util.rs:
